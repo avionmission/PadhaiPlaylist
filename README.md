@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# PadhaiPlaylist: Your One Stop Solution for Video Courses
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
